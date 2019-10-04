@@ -1,0 +1,14 @@
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\bin\Debug\netcoreapp2.1\Web_Api_Routing_Demo.deps.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\bin\Debug\netcoreapp2.1\Web_Api_Routing_Demo.runtimeconfig.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\bin\Debug\netcoreapp2.1\Web_Api_Routing_Demo.runtimeconfig.dev.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\bin\Debug\netcoreapp2.1\Web_Api_Routing_Demo.dll
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\bin\Debug\netcoreapp2.1\Web_Api_Routing_Demo.pdb
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.csprojAssemblyReference.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.csproj.CoreCompileInputs.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.RazorAssemblyInfo.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.RazorAssemblyInfo.cs
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.AssemblyInfoInputs.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.AssemblyInfo.cs
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.RazorTargetAssemblyInfo.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.dll
+C:\Users\yogesh.parmar\source\repos\WebApiTask\RoutingExample\Web_Api_Routing_Demo\obj\Debug\netcoreapp2.1\Web_Api_Routing_Demo.pdb

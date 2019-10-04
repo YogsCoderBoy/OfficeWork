@@ -1,0 +1,14 @@
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\bin\Debug\netcoreapp2.1\DemoOfWebApi.deps.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\bin\Debug\netcoreapp2.1\DemoOfWebApi.runtimeconfig.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\bin\Debug\netcoreapp2.1\DemoOfWebApi.runtimeconfig.dev.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\bin\Debug\netcoreapp2.1\DemoOfWebApi.dll
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.csprojAssemblyReference.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.csproj.CoreCompileInputs.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.RazorAssemblyInfo.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.RazorAssemblyInfo.cs
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.AssemblyInfoInputs.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.AssemblyInfo.cs
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\bin\Debug\netcoreapp2.1\DemoOfWebApi.pdb
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.dll
+C:\Users\yogesh.parmar\source\repos\WebApiTask\FirstWebApiDemo\DemoOfWebApi\obj\Debug\netcoreapp2.1\DemoOfWebApi.pdb

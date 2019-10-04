@@ -1,0 +1,14 @@
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\bin\Debug\netcoreapp2.1\CustomFilter.deps.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\bin\Debug\netcoreapp2.1\CustomFilter.runtimeconfig.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\bin\Debug\netcoreapp2.1\CustomFilter.runtimeconfig.dev.json
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\bin\Debug\netcoreapp2.1\CustomFilter.dll
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.csprojAssemblyReference.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.csproj.CoreCompileInputs.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.RazorAssemblyInfo.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.RazorAssemblyInfo.cs
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.AssemblyInfoInputs.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.AssemblyInfo.cs
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.RazorTargetAssemblyInfo.cache
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\bin\Debug\netcoreapp2.1\CustomFilter.pdb
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.dll
+C:\Users\yogesh.parmar\source\repos\WebApiTask\CustomFilter\CustomFilter\obj\Debug\netcoreapp2.1\CustomFilter.pdb
